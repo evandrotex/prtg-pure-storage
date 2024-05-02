@@ -212,28 +212,28 @@ Please use the corresponding script for this version. Example for additional par
     </tr>
     <tr>
         <td>hardware</td>
-        <td>List PURE storage hardware (PSU, chassis, etc) and their health</td>
+        <td>List PURE storage Flashblade hardware (PSU, chassis, etc) and their health</td>
     </tr>
         <tr>
         <td>hardware_fan</td>
-        <td>List PURE storage hardware fans and their health</td>
+        <td>List PURE storage Flashblade hardware fans and their health</td>
     </tr>
      <tr>
         <tr>
         <td>drive</td>
-        <td>List PURE storage drives and their health</td>
+        <td>List PURE storage Flashblade drives and their health</td>
     </tr>
     <tr>
         <tr>
         <td>drive_2</td>
-        <td>List PURE storage drives from second controller and their health</td>
+        <td>List PURE storage Flashblade drives from second controller and their health</td>
     </tr>
     <tr>
         <td>performance</td>
-        <td>List PURE storage array performance including IOPS and RW rate and latency </td>
+        <td>List PURE storage Flashblade performance including IOPS and RW rate and latency </td>
     </tr>
      <tr>
         <td>capacity</td>
-        <td>List PURE storage array capacity including snapshot size, data reduction and user definable WARNING and ERROR threshold for disk usage</td>
+        <td>List PURE storage Flashblade capacity including snapshot size, data reduction and user definable WARNING and ERROR threshold for disk usage</td>
     </tr>
 </table>
