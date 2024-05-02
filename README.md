@@ -2,7 +2,7 @@
 PRTG script to check PURE storage SAN statistics using REST API
 
 
-![All available sensors](https://github.com/tonkotsurobot/prtg-pure-storage/raw/master/all%20sensors.png)
+![All available sensors](https://github.com/evandrotex/prtg-pure-storage/raw/master/all%20sensors.png)
 
 
 To use: 
@@ -14,7 +14,7 @@ To use:
 4. Restart PRTG core service to load these files as per https://www.paessler.com/manuals/prtg/prtg_probe_administrator
 5. Create a "Python Script Advanced" sensor in PRTG
 6. Select the right python script, and add the right additional parameter as the table below. For pure-api-v22.py and prtg-pure-flashblade.py use key=value format (scope=capacity)
-![Adding a sensor](https://github.com/tonkotsurobot/prtg-pure-storage/raw/master/add-sensor.png)
+![Adding a sensor](https://github.com/evandrotex/prtg-pure-storage/raw/master/add-sensor.png)
 
 7. Create a separate sensor for each switch/parameter
 
