@@ -10,7 +10,7 @@ To use:
 2. Ensure you at least modify the API_TOKEN variable at the top. You can use the pureuser API key for this purpose. For pure-api-v22.py and prtg-pure-flashblade.py set api key as placeholder1, on "Credentials for Script Sensors" under the device settings.
 ![Api](https://github.com/evandrotex/prtg-pure-storage/raw/master/api-key.png)
 3. Modify the url address (prtg-puer-storage.py and pure-api-v20.py). For pure-api-v22.py and prtg-pure-flashblade.py use additional parameter arrayaddress=%host
-![Host](https://github.com/evandrotex/prtg-pure-storage/raw/master/additional-parameter.png)
+![Host](https://github.com/evandrotex/prtg-pure-storage/raw/master/additional_parameter.png)
 4. Restart PRTG core service to load these files as per https://www.paessler.com/manuals/prtg/prtg_probe_administrator
 5. Create a "Python Script Advanced" sensor in PRTG
 6. Select the right python script, and add the right additional parameter as the table below. For pure-api-v22.py and prtg-pure-flashblade.py use key=value format (scope=capacity)
@@ -248,5 +248,5 @@ If you need to install python modules, follow these guide
 https://kb.paessler.com/en/topic/90686-i-want-to-install-python-packages-for-the-python-installation-of-prtg-how-can-i-do-that
 
 
-![Install Requests](https://github.com/evandrotex/prtg-pure-storage/raw/master/install_requests.png)
+![Install Req](https://github.com/evandrotex/prtg-pure-storage/raw/master/install_requests.png)
 
