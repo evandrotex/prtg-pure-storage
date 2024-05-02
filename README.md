@@ -248,5 +248,5 @@ If you need to install python modules, follow these guide
 https://kb.paessler.com/en/topic/90686-i-want-to-install-python-packages-for-the-python-installation-of-prtg-how-can-i-do-that
 
 
-![All available sensors](https://github.com/evandrotex/prtg-pure-storage/raw/master/install_requests.png)
+![Install Requests](https://github.com/evandrotex/prtg-pure-storage/raw/master/install_requests.png)
 
